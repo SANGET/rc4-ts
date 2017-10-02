@@ -1,0 +1,27 @@
+{
+  "name": "rc4-es6",
+  "version": "1.0.0",
+  "description": "rc4 es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SANGET/RC4-ES6.git"
+  },
+  "keywords": [
+    "rc4",
+    "js",
+    "es6"
+  ],
+  "dependencies": {
+    "babel-polyfill": "^6.26.0"
+  },
+  "author": "sanget",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SANGET/RC4-ES6/issues"
+  },
+  "homepage": "https://github.com/SANGET/RC4-ES6#readme"
+}
