@@ -22,6 +22,5 @@ const finalResult = window.decodeURIComponent(window.escape(window.atob(decryptR
 --------
 
 ### 用途
-
-#### 简单的 HTTP 的通讯加密
-#### 简单的本地用户密码存储
+- 简单的 HTTP 的通讯加密
+- 简单的本地用户密码存储
