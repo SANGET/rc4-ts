@@ -2,7 +2,7 @@
   "name": "rc4-es6",
   "version": "1.0.0",
   "description": "rc4 es6",
-  "main": "index.js",
+  "main": "rc4.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
