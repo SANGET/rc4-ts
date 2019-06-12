@@ -1,4 +1,4 @@
-# RC4 JS
+# RC4 TS
 
 ## Usage
 
