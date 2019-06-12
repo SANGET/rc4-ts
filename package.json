@@ -5,7 +5,8 @@
   "main": "./index.js",
   "scripts": {
     "prepublish": "npm test",
-    "release": "rm -rf ./dist; tsc; npm run build:copy-files-ts; npm publish ./dist",
+    "release": "npm run build; npm run build:copy-files-ts; npm publish ./dist",
+    "build": "rm -rf ./dist; tsc;",
     "build:copy-files-ts": "NODE_ENV=production node ./scripts/copy-files-ts.js",
     "test": "jest"
   },
