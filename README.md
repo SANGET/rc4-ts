@@ -2,6 +2,10 @@
 
 ## Usage
 
+implament rc4 encrypt with ts.
+
+![build](https://travis-ci.org/SANGET/rc4-ts.svg?branch=master)
+
 ```js
 npm i rc4-ts
 # or
